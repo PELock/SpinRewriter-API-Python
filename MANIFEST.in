@@ -1,0 +1,2 @@
+include README.md
+recursive-include spinrewriterapi *.py
